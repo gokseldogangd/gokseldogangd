@@ -3,7 +3,7 @@
 
 - web [https://gokseldogangd.com](https://gokseldogangd.com)
 
-- e mail **info@gokseldogangd.com**
+- e mail **promo@gokseldogangd.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
