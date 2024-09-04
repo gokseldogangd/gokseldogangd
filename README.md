@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba ! Ben Göksel</h1>
 <h3 align="center">Full stack yolunda, front end developer adayı</h3>
 
-- web [https://gokseldogangd.com](https://gokseldogangd.com)
+- web [https://gokseldogan.com](https://gokseldogan.com)
 
 - e mail **promo@gokseldogangd.com**
 
